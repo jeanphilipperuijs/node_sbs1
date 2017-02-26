@@ -4,5 +4,5 @@ function tst(l) {
   console.log(l);
 }
 
-sbs = new SBS1('127.0.0.1', tst);
+sbs = new SBS1('pc.ruijs.fr', tst);
 sbs.run();
